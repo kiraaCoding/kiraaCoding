@@ -1,6 +1,6 @@
 👋 Hi, I’m @kiraaCoding
 
-- 👀 I’m interested in the intricate dance of code, where every line tells a story and every function unlocks a new chapter in the world of technology.
+- 👀 I’m interested in coding and web developpement, where every line tells a story and every function unlocks a new chapter in the world of technology.
 
 - 🌱 I’m currently learning the art of data science , delving into the realms of Python libraries and algorithms to unravel the secrets hidden within vast datasets.
 
